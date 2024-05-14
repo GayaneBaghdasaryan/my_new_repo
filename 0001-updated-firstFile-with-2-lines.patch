@@ -1,0 +1,29 @@
+From 2902e680e6eb28ea73acaedb5a6a8a698175b32f Mon Sep 17 00:00:00 2001
+From: GayaneBaghdasaryan <gayane.baghdasaryan35@gmail.com>
+Date: Tue, 14 May 2024 15:02:02 +0400
+Subject: [PATCH] updated firstFile with 2 lines
+
+---
+ firstFile.txt | 4 ++--
+ 1 file changed, 2 insertions(+), 2 deletions(-)
+
+diff --git a/firstFile.txt b/firstFile.txt
+index 5fcdb1f..afe3fd3 100644
+--- a/firstFile.txt
++++ b/firstFile.txt
+@@ -1,10 +1,10 @@
+ Have 
+ a nice day!
+ 
++Don't give up!
+ 
+ 
+-
+-
++Dream big! 
+ 
+ 
+ 
+-- 
+2.39.3 (Apple Git-146)
+
